@@ -37,8 +37,6 @@ public class Reto2WebApplication implements CommandLineRunner {
         interfaceUser.deleteAll();
         orderInterface.deleteAll();
 
-
     }
-        
 
 }
